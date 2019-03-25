@@ -1,30 +1,11 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: March 24 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Task Accomplished:** Today, I didn't code but I decided to enroll in an Apigee Google Cloud course in order to learn more about Apigee. 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** The course is: API Design and Fundamentals of Google Cloud's Apigee API Platform. I learned about what Apigee is, and the services each product holds. The Apigee platform holds 3 products. 1.)  Apigee Edge 2.) Apigee Sense and, 3.) Apigee Monetization.
+ Apigee Edge is an API management platform, it connects the front with the back-end, adds configuration of API proxies, attaches security to the data being transmitted, and has data mapping. There are 3 layers to this product, those are a.) API Services, b.) Developer Services, and c.) Analytics Services. Apigee Sense is an intelligent behavior detection and security product that protects APIs from attacks. It works along with the Apigee Edge product using algorithms that are analyzed from API calls. Lastly, Apigee Monetization, is a solution that recognizes that value of APIs. 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** No link, just hand-written notes about the topic
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
